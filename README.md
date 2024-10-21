@@ -1,6 +1,7 @@
 # Awesome-Zero-Trust
 
 
+
 ## Zero trust Firewall tools
 
 - [IPFire](https://www.ipfire.org/) — A stateful inspection firewall focused on security, offering features like web filtering, intrusion detection and prevention, and hardware failover for high availability.
@@ -27,6 +28,17 @@
 ## Zero trust Workload Identity tools
 - [SPIRE](https://github.com/spiffe/spire) — An open-source implementation of the SPIFFE standards, SPIRE manages and issues workload identities for microservices, providing a framework for secure service-to-service communication through cryptographic identities.
 
+
+## Zero trust Authentication tools
+
+
+## Zero trust Authorization tools
+
+
+## Theory
+
+### Articles & Papers
+### Sites & Organizations
 
 
 ## Other great awesome lists
