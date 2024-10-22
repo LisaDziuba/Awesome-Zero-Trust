@@ -38,6 +38,8 @@
 ## Theory
 
 ### Articles & Papers
+- [What is zero trust authorization?](https://www.cerbos.dev/blog/zero-trust-authorization)
+
 ### Sites & Organizations
 
 
